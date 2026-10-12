@@ -21,3 +21,5 @@ Aplikasi manajemen bisnis cookies: produk & stok, pelanggan, penjualan, pengelua
 
 ## Catatan keamanan
 Aplikasi belum memakai login, sehingga siapa pun yang membuka situsnya bisa melihat dan mengubah data. Tambahkan Supabase Auth sebelum dipakai untuk data bisnis sungguhan.
+
+Link Demo Website: https://lovelyprstyooo.github.io/COOKIE-HOUSE/
